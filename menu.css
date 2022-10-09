@@ -1,5 +1,6 @@
 * { margin: 0%;
   padding: 0%;
+  
 }
 
  a {
@@ -268,6 +269,7 @@ justify-content: space-between;
 align-items: center;
 gap: 10px;
 
+
 }
 
 .rodape{
@@ -307,3 +309,9 @@ justify-content: center;
  gap: 20px;
 
 }
+
+p{
+  color: #044d46;
+  font-size: 20px;
+}
+

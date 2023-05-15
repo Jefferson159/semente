@@ -54,7 +54,7 @@ main {
 .mobile-menu div {
   width: 32px;
   height: 2px;
-  background: #0e0c0c;
+  background: #fff;
   margin: 8px;
   transition: 0.3s;
 }
@@ -322,9 +322,9 @@ footer {
 }
 
 .logo {
-  padding: 20px 20px;
-  z-index: -100px;
+  display: flex;
 
   margin-bottom: 27px;
-  margin-right: 100px;
+  margin-right: 150px;
+  max-width: 290px;
 }
